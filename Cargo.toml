@@ -1,7 +1,8 @@
 [package]
-name = "mkproj-withrust"
+name = "mkproj"
 version = "0.1.0"
 authors = ["Reboot-Codes <55662140+Reboot-Codes@users.noreply.github.com>"]
+description = "Make a project as easily as making a directory; with a few extra steps of course."
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
